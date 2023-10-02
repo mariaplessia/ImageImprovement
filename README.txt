@@ -4,3 +4,5 @@ For the default image (pcb.png):
 		python3 ps3-1.py
 For the rest of the images (e.g. rainbow.png)
         python3 ps2-1.py -i rainbow.png
+
+This program can be modified to work for any images. Original Images used not provided due to copyrights.
